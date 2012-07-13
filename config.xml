@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.enterpriseplc.templates.tutorial.app.anatomy" version="1.0" width="320" height="480" start="index.html">
+<title>Tutorial - App Anatomy</title>
+<description>This app demonstrates how to use client-side packages to customise application behavior and appearance. It is also the application that is used in the "App Anatomy" help document - http://docs.feedhenry.com/wiki/App_Anatomy  
+
+This app is also on github: https://github.com/feedhenry/App-Anatomy
+Doc: http://docs.feedhenry.com/wiki/App_Anatomy</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>
