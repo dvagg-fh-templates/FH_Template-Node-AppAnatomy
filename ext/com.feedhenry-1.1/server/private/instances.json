@@ -11,7 +11,7 @@
       "preview": {"device": "generic"}
     },
     "containerCriteria": "",
-    "description": "This app demonstrates how to use client-side packages to customise application behavior and appearance. It is also the application that is used in the \"App Anatomy\" help document - http://docs.feedhenry.com/wiki/App_Anatomy  \n\nThis app is also on github: https://github.com/feedhenry/App-Anatomy\nDoc: http://docs.feedhenry.com/wiki/App_Anatomy",
+    "description": "This app demonstrates how to use client-side packages to customise application behavior and appearance. It is also the application that is used in the \"App Anatomy\" help document - http://docs.feedhenry.com/wiki/App_Anatomy",
     "disabled": false,
     "discover": false,
     "dock": "",
